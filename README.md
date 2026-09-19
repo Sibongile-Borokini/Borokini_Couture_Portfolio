@@ -18,7 +18,7 @@ The project brought together:
 - Social media management
 - Content strategy
 - Brand development
-- Website development
+- Canva Website development
 - Pinterest management
 - Visual content improvement
 - Customer data organization
@@ -151,7 +151,7 @@ It also reinforced the importance of establishing a reliable data foundation bef
 - Basic analytics interpretation
 
 *Digital*
-- Website development
+- Canva Website development
 - Pinterest
 - TikTok
 - Visual content development
@@ -177,9 +177,8 @@ The repository contains supporting evidence from the project, including:
 
 This project forms part of my broader portfolio as I continue developing my skills across *marketing, data analytics, and digital operations*.
 
-*Portfolio:* [Add your portfolio link here]
-
-*LinkedIn:* [Add your LinkedIn link here]
+*LinkedIn:* linkedin.com/in/sibongile-borokini-0a5016203
+*Website:* https://www.patternandperspective.com
 
 ---
 
