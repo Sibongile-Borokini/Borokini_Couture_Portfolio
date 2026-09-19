@@ -177,8 +177,8 @@ The repository contains supporting evidence from the project, including:
 
 This project forms part of my broader portfolio as I continue developing my skills across *marketing, data analytics, and digital operations*.
 
-*LinkedIn:* https://linkedin.com/in/sibongile-borokini-0a5016203
-*Website:* https://www.patternandperspective.com
+*LinkedIn:* [Sibongile Borokini](https://linkedin.com/in/sibongile-borokini-0a5016203)
+*Website:* [Pattern & Perspective](https://www.patternandperspective.com)
 
 ---
 
